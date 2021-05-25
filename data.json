@@ -1,0 +1,129 @@
+{ 
+    "men":[
+        {   "id":"01",
+            "category":"men",
+            "name":"men suits",
+            "color":"black",
+            "size":"54",
+            "price":"200$",
+            "image":"/data-photos/men/black-suit.jpeg"
+        },
+        {   "id":"01",
+            "category":"men",
+            "name":"men suits",
+            "color":"black",
+            "size":"54",
+            "price":"200$",
+            "image":"/data-photos/men/black-suit2.jpeg"
+        },
+        {   "id":"01",
+            "category":"men",
+            "name":"men suits",
+            "color":"black",
+            "size":"54",
+            "price":"200$",
+            "image":"/data-photos/men/black-suit3.jpeg"
+        },
+        {   "id":"01",
+            "category":"men",
+            "name":"men suits",
+            "color":"black",
+            "size":"54",
+            "price":"200$",
+            "image":"/data-photos/men/black-suit4.jpeg"
+        },
+        {   "id":"01",
+            "category":"men",
+            "name":"men suits",
+            "color":"black",
+            "size":"54",
+            "price":"200$",
+            "image":"/data-photos/men/black-suit5.jpeg"
+        }
+        ],
+
+    "women":[
+        {   "id":"02",
+            "category":"women",
+            "name":"women dress",
+            "color":"black",
+            "size":"44",
+            "price":"70$",
+            "image":"/data-photos/women-dresses.jpeg"
+        },
+        {   "id":"02",
+            "category":"women",
+            "name":"women dress",
+            "color":"black",
+            "size":"44",
+            "price":"70$",
+            "image":"/data-photos/women-dresses2.jpeg"
+        },
+        {   "id":"02",
+            "category":"women",
+            "name":"women dress",
+            "color":"black",
+            "size":"44",
+            "price":"70$",
+            "image":"/data-photos/women-dresses3.jpeg"
+        },
+        {   "id":"02",
+            "category":"women",
+            "name":"women dress",
+            "color":"black",
+            "size":"44",
+            "price":"70$",
+            "image":"/data-photos/women-dresses4.jpeg"
+        },
+        {   "id":"02",
+            "category":"women",
+            "name":"women dress",
+            "color":"black",
+            "size":"44",
+            "price":"70$",
+            "image":"/data-photos/women-dresses5.jpeg"
+        }
+        ],
+    "children":[
+        {   "id":"03",
+            "category":"children",
+            "name":"children-fashion",
+            "color":"color",
+            "size":"140",
+            "price":"25$",
+            "image":"/data-photos/children-clothes/children-fashion.jpeg"
+        },
+        {   "id":"03",
+            "category":"children",
+            "name":"children-fashion",
+            "color":"color",
+            "size":"140",
+            "price":"25$",
+            "image":"/data-photos/children-clothes/children-fashion2.png"
+        },
+        {   "id":"03",
+            "category":"children",
+            "name":"children-fashion",
+            "color":"color",
+            "size":"140",
+            "price":"25$",
+            "image":"/data-photos/children-clothes/children-fashion3.jpeg"
+        },
+        {   "id":"03",
+            "category":"children",
+            "name":"children-fashion",
+            "color":"color",
+            "size":"140",
+            "price":"25$",
+            "image":"/data-photos/children-clothes/children-fashion4.jpeg"
+        },
+        {   "id":"03",
+            "category":"children",
+            "name":"children-fashion",
+            "color":"color",
+            "size":"140",
+            "price":"25$",
+            "image":"/data-photos/children-clothes/children-fashion5.jpeg"
+        }
+        ]        
+}
