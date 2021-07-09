@@ -2,7 +2,7 @@
   " name": "marketplace",
   "version": "1.0.0",
   "description": "des",
-  "homepage": "https://kartish-a.github.io/myFirstMarket/",
+  "homepage": " https://kartish-A.github.io/myFirstMarket/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
