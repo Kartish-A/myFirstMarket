@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/myFirstMarket/static/css/main.8d6715ba.chunk.css",
+    "main.js": "/myFirstMarket/static/js/main.777a96b2.chunk.js",
+    "main.js.map": "/myFirstMarket/static/js/main.777a96b2.chunk.js.map",
+    "runtime-main.js": "/myFirstMarket/static/js/runtime-main.c8fd8a16.js",
+    "runtime-main.js.map": "/myFirstMarket/static/js/runtime-main.c8fd8a16.js.map",
+    "static/css/2.9a766daa.chunk.css": "/myFirstMarket/static/css/2.9a766daa.chunk.css",
+    "static/js/2.c2a60087.chunk.js": "/myFirstMarket/static/js/2.c2a60087.chunk.js",
+    "static/js/2.c2a60087.chunk.js.map": "/myFirstMarket/static/js/2.c2a60087.chunk.js.map",
+    "index.html": "/myFirstMarket/index.html",
+    "precache-manifest.350122e5ecc4d51e9cbd71ef358a35b3.js": "/myFirstMarket/precache-manifest.350122e5ecc4d51e9cbd71ef358a35b3.js",
+    "service-worker.js": "/myFirstMarket/service-worker.js",
+    "static/css/2.9a766daa.chunk.css.map": "/myFirstMarket/static/css/2.9a766daa.chunk.css.map",
+    "static/css/main.8d6715ba.chunk.css.map": "/myFirstMarket/static/css/main.8d6715ba.chunk.css.map",
+    "static/js/2.c2a60087.chunk.js.LICENSE.txt": "/myFirstMarket/static/js/2.c2a60087.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8fd8a16.js",
+    "static/css/2.9a766daa.chunk.css",
+    "static/js/2.c2a60087.chunk.js",
+    "static/css/main.8d6715ba.chunk.css",
+    "static/js/main.777a96b2.chunk.js"
+  ]
+}
